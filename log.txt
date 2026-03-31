@@ -1,0 +1,4 @@
+[2026-03-30 16:54:41] SEED: 42 Accuracy of model: 0.8113
+[2026-03-30 19:13:18] (PGD-based Adversarial Training) SEED: 42 Accuracy on usual images: 0.4825 Accuracy degradation: 0.3288
+[2026-03-30 19:49:44] SEED: 42 LS accuracy: 0.7827 Accuracy degradation: 0.0286
+[2026-03-31 20:39:38] SEED: 42 PGD and LS combination accuracy: 0.4131 Accuracy degradation: 0.3982
